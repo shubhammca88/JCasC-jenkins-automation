@@ -22,8 +22,7 @@ Traditional Jenkins setup requires manual configuration through the web UI, maki
 
 ```bash
 # Clone and start Jenkins
-git clone <repository-url>
-cd JCasC
+git clone https://github.com/shubhammca88/JCasC-jenkins-automation.git
 docker-compose up -d
 
 # Access Jenkins at http://localhost:8080
